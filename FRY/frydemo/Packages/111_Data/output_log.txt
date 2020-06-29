@@ -1,0 +1,50 @@
+Mono path[0] = 'F:/桌面文件/桌面文件2/FRY A FRY 全/frydemo/Packages/111_Data/Managed'
+Mono path[1] = 'F:/桌面文件/桌面文件2/FRY A FRY 全/frydemo/Packages/111_Data/Mono'
+Mono config path = 'F:/桌面文件/桌面文件2/FRY A FRY 全/frydemo/Packages/111_Data/Mono/etc'
+PlayerConnection initialized from F:/桌面文件/桌面文件2/FRY A FRY 全/frydemo/Packages/111_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55093
+Multi-casting "[IP] 192.168.10.78 [Port] 55093 [Flags] 2 [Guid] 129413526 [EditorId] 2379508119 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-DT652C9) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55093]
+PlayerConnection already initialized - listening to [0.0.0.0:55093]
+Initialize engine version: 5.5.3f1 (4d2f809fd6f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   23.21.13.9125
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\桌面文件\桌面文件2\FRY A FRY 全\frydemo\Packages\111_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.806600 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37d0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.089500 ms
+System memory in use before: 55.5 MB.
+System memory in use after: 55.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 5608.
+Total: 1.326400 ms (FindLiveObjects: 0.330600 ms CreateObjectMapping: 0.066400 ms MarkObjects: 0.881300 ms  DeleteObjects: 0.029300 ms)
+
